@@ -1,0 +1,11 @@
+File,Quality,Problem
+S01_T01_001.wav,Good,-
+S02_T01_001.wav,Good,-
+S03_T01_001.wav,Acceptable,Background noise cukup tinggi namun ucapan masih dapat dipahami
+S04_T01_001.wav,Good,-
+S05_T01_001.wav,Good,-
+S06_T01_001.wav,Good,-
+S07_T01_001.wav,Good,-
+S08_T01_001.wav,Good,-
+S09_T01_001.wav,Acceptable,"Silence digital berulang: sekitar 14 jeda sepanjang 10 sampai 14 detik (sekitar 39% durasi), karena penutur berpikir dan membaca pertanyaan terlebih dahulu"
+S10_T01_001.wav,Good,-
